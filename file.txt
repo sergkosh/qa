@@ -1,2 +1,2 @@
-Hello, Github!
+Hello, Github! This is the first file I added to my project and edited.
 
