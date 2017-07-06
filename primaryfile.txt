@@ -1,3 +1,0 @@
-Hello, Github! This is the first file added to my project and edited.
-This was before other file.
-
